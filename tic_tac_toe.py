@@ -1,5 +1,3 @@
-
-
 board = ['-'] * 9
 current_player = 'X'
 
